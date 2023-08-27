@@ -1,0 +1,30 @@
+D:\proyectos vs\bascula\bascula\bin\Debug\bascula.exe.config
+D:\proyectos vs\bascula\bascula\bin\Debug\bascula.exe
+D:\proyectos vs\bascula\bascula\bin\Debug\bascula.pdb
+D:\proyectos vs\bascula\bascula\obj\Debug\bascula.csproj.AssemblyReference.cache
+D:\proyectos vs\bascula\bascula\obj\Debug\bascula.csproj.SuggestedBindingRedirects.cache
+D:\proyectos vs\bascula\bascula\obj\Debug\bascula.bascula.resources
+D:\proyectos vs\bascula\bascula\obj\Debug\bascula.Properties.Resources.resources
+D:\proyectos vs\bascula\bascula\obj\Debug\bascula.csproj.GenerateResource.cache
+D:\proyectos vs\bascula\bascula\obj\Debug\bascula.csproj.CoreCompileInputs.cache
+D:\proyectos vs\bascula\bascula\obj\Debug\bascula.exe
+D:\proyectos vs\bascula\bascula\obj\Debug\bascula.pdb
+D:\proyectos vs\bascula\bascula\bin\Debug\bascula.exe.manifest
+D:\proyectos vs\bascula\bascula\bin\Debug\bascula.application
+D:\proyectos vs\bascula\bascula\obj\Debug\bascula.exe.manifest
+D:\proyectos vs\bascula\bascula\obj\Debug\bascula.application
+D:\proyectos vs\Bascula buscador string\bascula\bin\Debug\bascula.exe.config
+D:\proyectos vs\Bascula buscador string\bascula\bin\Debug\bascula.exe.manifest
+D:\proyectos vs\Bascula buscador string\bascula\bin\Debug\bascula.application
+D:\proyectos vs\Bascula buscador string\bascula\bin\Debug\bascula.exe
+D:\proyectos vs\Bascula buscador string\bascula\bin\Debug\bascula.pdb
+D:\proyectos vs\Bascula buscador string\bascula\obj\Debug\bascula.csproj.AssemblyReference.cache
+D:\proyectos vs\Bascula buscador string\bascula\obj\Debug\bascula.csproj.SuggestedBindingRedirects.cache
+D:\proyectos vs\Bascula buscador string\bascula\obj\Debug\bascula.bascula.resources
+D:\proyectos vs\Bascula buscador string\bascula\obj\Debug\bascula.Properties.Resources.resources
+D:\proyectos vs\Bascula buscador string\bascula\obj\Debug\bascula.csproj.GenerateResource.cache
+D:\proyectos vs\Bascula buscador string\bascula\obj\Debug\bascula.csproj.CoreCompileInputs.cache
+D:\proyectos vs\Bascula buscador string\bascula\obj\Debug\bascula.exe.manifest
+D:\proyectos vs\Bascula buscador string\bascula\obj\Debug\bascula.application
+D:\proyectos vs\Bascula buscador string\bascula\obj\Debug\bascula.exe
+D:\proyectos vs\Bascula buscador string\bascula\obj\Debug\bascula.pdb
